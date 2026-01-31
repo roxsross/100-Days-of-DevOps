@@ -125,4 +125,4 @@ SELINUX=disabled
 
 ---
 
-> 📌 **Reto 100 Días de DevOps** – Día 5 completado. SELinux controlado, entorno bajo control 🔐
+> 📌 **Reto 100 Días de DevOps** – Día 5 completado. Automatización segura habilitada 🔑🚀

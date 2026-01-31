@@ -1,11 +1,12 @@
+
 # Día 1: Creación de Usuario Linux con Shell No Interactivo
 
 ## 🎯 Objetivo
 
 Crear un usuario Linux **sin acceso interactivo** para uso de servicios o automatización, evitando logins por shell.
 
----
 
+---
 ## 🧠 Contexto
 
 Los usuarios de servicio no deberían iniciar sesión de forma interactiva. Asignar un shell como `/sbin/nologin` o `/usr/sbin/nologin` mejora la seguridad y cumple buenas prácticas.
@@ -106,4 +107,5 @@ ls -ld /home/rose
 
 ---
 
-> 📌 **Reto 100 Días de DevOps** – Día 1 completado. Documentá tus avances y compartilos con la
+
+> 📌 **Reto 100 Días de DevOps** – Día 1 completado. Automatización segura habilitada 🔑🚀

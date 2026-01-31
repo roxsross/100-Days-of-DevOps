@@ -105,4 +105,4 @@ Repetí los pasos **1 a 4** en cada servidor requerido por el reto.
 
 ---
 
-> 📌 **Reto 100 Días de DevOps** – Día 3 completado. Menos root, más seguridad 🔐
+> 📌 **Reto 100 Días de DevOps** – Día 3 completado. Automatización segura habilitada 🔑🚀

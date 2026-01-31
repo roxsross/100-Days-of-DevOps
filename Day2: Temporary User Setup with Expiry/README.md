@@ -103,4 +103,4 @@ Account expires : Mar 28, 2027
 
 ---
 
-> 📌 **Reto 100 Días de DevOps** – Día 2 completado. Seguridad también es saber cuándo quitar accesos.
+> 📌 **Reto 100 Días de DevOps** – Día 2 completado. Automatización segura habilitada 🔑🚀

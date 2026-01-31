@@ -139,4 +139,4 @@ Repetí los pasos **1 a 6** en cada servidor requerido por el reto.
 
 ---
 
-> 📌 **Reto 100 Días de DevOps** – Día 6 completado. Automatizar es sobrevivir 🤖
+> 📌 **Reto 100 Días de DevOps** – Día 6 completado. Automatización segura habilitada 🔑🚀
