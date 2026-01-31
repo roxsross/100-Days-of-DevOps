@@ -47,23 +47,24 @@ El desafío propone realizar durante 100 días consecutivos ejercicios práctico
 
 
 
+
 ### Acceso directo a los desafíos realizados
 
-- [Día 1: Creación de usuario Linux con shell no interactivo](./Day1:%20Linux%20User%20Setup%20with%20Non-Interactive%20Shell/README.md)
-- [Día 2: Usuario temporal con fecha de expiración](./Day2:%20Temporary%20User%20Setup%20with%20Expiry/README.md)
-- [Día 3: Deshabilitar acceso SSH directo como root](./Day3:%20Secure%20Root%20SSH%20Access/README.md)
-- [Día 4: Permisos de ejecución para scripts](./Day4:%20Script%20Execution%20Permissions/README.md)
-- [Día 5: Instalación y configuración de SELinux](./Day5:%20SElinux%20Installation%20and%20Configuration/README.md)
-- [Día 6: Crear un cron job](./Day6:%20Create%20a%20Cron%20Job/README.md)
-- [Día 7: Autenticación SSH sin contraseña](./Day7:%20Linux%20SSH%20Authentication/README.md)
-- [Día 8: Instalar Ansible](./Day8%20-%20Install%20Ansible/README.md)
-- [Día 9: Troubleshooting de MariaDB](./Day9%20-%20MariaDB%20Troubleshooting/README.md)
-- [Día 10: Bash Scripts en Linux](./Day10:%20Linux%20Bash%20Scripts/README.md)
-- [Día 11: Instalar y configurar Tomcat Server](./Day11%20-%20Install%20and%20Configure%20Tomcat%20Server/README.md)
-- [Día 12: Servicios de red en Linux](./Day12:%20Linux%20Network%20Services/README.md)
-- [Día 13: Instalación y configuración de IPtables](./Day13:%20IPtables%20Installation%20And%20Configuration/README.md)
-- [Día 14: Troubleshooting de procesos en Linux](./Day14:%20Linux%20Process%20Troubleshooting/README.md)
-- [Día 15: Configurar SSL para Nginx](./Day15:%20Setup%20SSL%20for%20Nginx/README.md)
+- [Día 1: Creación de usuario Linux con shell no interactivo](./Day01_Linux_User_Setup_with_Non-Interactive_Shell/README.md)
+- [Día 2: Usuario temporal con fecha de expiración](./Day02_Temporary_User_Setup_with_Expiry/README.md)
+- [Día 3: Deshabilitar acceso SSH directo como root](./Day03_Secure_Root_SSH_Access/README.md)
+- [Día 4: Permisos de ejecución para scripts](./Day04_Script_Execution_Permissions/README.md)
+- [Día 5: Instalación y configuración de SELinux](./Day05_SElinux_Installation_and_Configuration/README.md)
+- [Día 6: Crear un cron job](./Day06_Create_a_Cron_Job/README.md)
+- [Día 7: Autenticación SSH sin contraseña](./Day07_Linux_SSH_Authentication/README.md)
+- [Día 8: Instalar Ansible](./Day08_Install_Ansible/README.md)
+- [Día 9: Troubleshooting de MariaDB](./Day09_MariaDB_Troubleshooting/README.md)
+- [Día 10: Bash Scripts en Linux](./Day10_Linux_Bash_Scripts/README.md)
+- [Día 11: Instalar y configurar Tomcat Server](./Day11_Install_and_Configure_Tomcat_Server/README.md)
+- [Día 12: Servicios de red en Linux](./Day12_Linux_Network_Services/README.md)
+- [Día 13: Instalación y configuración de IPtables](./Day13_IPtables_Installation_And_Configuration/README.md)
+- [Día 14: Troubleshooting de procesos en Linux](./Day14_Linux_Process_Troubleshooting/README.md)
+- [Día 15: Configurar SSL para Nginx](./Day15_Setup_SSL_for_Nginx/README.md)
 
 
 
