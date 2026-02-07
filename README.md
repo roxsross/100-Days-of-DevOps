@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/7%20de%20100%20d%C3%ADas-completados-brightgreen" alt="Progreso" />
+	<img src="https://img.shields.io/badge/16%20de%20100%20d%C3%ADas-completados-brightgreen" alt="Progreso" />
 	<img src="https://img.shields.io/badge/295devops-comunidad-blue" alt="Comunidad 295devops" />
 	<img src="https://img.shields.io/badge/roxs.dev-comunidad-purple" alt="Comunidad roxs.dev" />
 </p>
@@ -65,6 +65,7 @@ El desafío propone realizar durante 100 días consecutivos ejercicios práctico
 - [Día 13: Instalación y configuración de IPtables](./Day13_IPtables_Installation_And_Configuration/README.md)
 - [Día 14: Troubleshooting de procesos en Linux](./Day14_Linux_Process_Troubleshooting/README.md)
 - [Día 15: Configurar SSL para Nginx](./Day15_Setup_SSL_for_Nginx/README.md)
+- [Día 16: Instalación y configuración de Nginx como LBR (Load Balancer)](./Day16_Install_and_Configure_Nginx_as_an_LBR/README.md)
 
 
 
