@@ -66,7 +66,7 @@ El desafío propone realizar durante 100 días consecutivos ejercicios práctico
 - [Día 14: Troubleshooting de procesos en Linux](./Day14_Linux_Process_Troubleshooting/README.md)
 - [Día 15: Configurar SSL para Nginx](./Day15_Setup_SSL_for_Nginx/README.md)
 - [Día 16: Instalación y configuración de Nginx como LBR (Load Balancer)](./Day16_Install_and_Configure_Nginx_as_an_LBR/README.md)
-
+- [Día 17: Instalación y configuración PostgreSQL](./Day17_Install_and_Configure_PostgreSQL/README.md)
 
 
 ---
